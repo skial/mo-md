@@ -1,0 +1,15 @@
+{
+  "name": "mo-md",
+  "license": "MIT",
+  "classPath": "src",
+  "tags": ["uhu", "uhx", "mo", "lexer", "ast", "parser", "md"],
+  "description": "A Markdown lexer and parser.",
+  "contributors": ["skial"],
+  "releasenote": "Initial Release",
+  "version": "0.0.1-alpha",
+  "url": "https://github.com/skial/mo-md",
+  "dependencies": {
+	"mo": "",
+    "utest": ""
+  }
+}
